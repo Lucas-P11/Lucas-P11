@@ -1,16 +1,16 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Lucas P1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Olá, eu sou o Lucas 👨‍💻</h1>
+    <p>Meu primeiro site!</p>
+    <button onclick="clicou()">Clique aqui</button>
 
-<!--
-**Lucas-P11/Lucas-P11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <script src="script.js"></script>
+</body>
+</html>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
