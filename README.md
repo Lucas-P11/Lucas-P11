@@ -56,7 +56,6 @@
 <br/>
 <br/>
 
-###  📊  Estatísticas
 
 ### 📊 Estatísticas
 
